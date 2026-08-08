@@ -28,6 +28,7 @@ PassOP is a full-stack password manager application that allows users to add, vi
 - Express.js
 - MongoDB
 - MongoDB Node.js Driver
+- MongoDB Compass
 - CORS
 
 ## Project Structure
@@ -125,6 +126,13 @@ documents
 ```
 
 MongoDB should be running locally before starting the backend.
+
+### Prerequisites
+
+- Node.js
+- MongoDB
+- MongoDB Compass (optional, for viewing and managing the database)
+- npm
 
 ## Future Improvements
 
